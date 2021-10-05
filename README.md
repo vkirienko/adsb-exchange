@@ -24,7 +24,7 @@ sudo bash /usr/local/share/tar1090/uninstall.sh adsbx
 
 ```
 curl -L -o /tmp/axfeed.sh https://github.com/adsbxchange/adsb-exchange/raw/master/update.sh
-sudo bash /tmp/axupdate.sh
+sudo bash /tmp/axfeed.sh
 ```
 
 ### Check these two URLs to check if your feed is working
